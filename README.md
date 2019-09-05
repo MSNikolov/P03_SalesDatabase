@@ -1,7 +1,7 @@
 # P03_SalesDatabase
 Another code first db I did as a homework.
 Problem descriptions: 
-3.	Sales Database
+Sales Database
 Create a database for storing data about sales using the Code First approach. The database should look like this:
  
 Constraints
